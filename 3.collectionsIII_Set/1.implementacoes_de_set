@@ -10,7 +10,7 @@ Para leitura, apenas navegação.
 - Não permite mudanças de ordenação.
 
 
-                        HASHSET
+                            HASHSET
 
 Quando utilizar?
 
@@ -28,8 +28,6 @@ performática.
 
                             LINKEDHASHSET
 
-
-
 Quando utilizar?
 
 Quando é necessário manter a ordem de inserção dos elementos.
@@ -42,6 +40,7 @@ Performance:
 
 É a implemenatação mais lenta por ser necessária manter a ordem. 
 
+                            
                             TREESET 
 
 Quando utilizar?
@@ -54,5 +53,5 @@ Mantém a ordem e pode ser reordenado.
 
 Performance:
 
-E performático para leitura. Para modificação tem a necessidade de reordenar, 
+É performático para leitura. Para modificação tem a necessidade de reordenar, 
 sendo mais lento que o LinkedHashSet. 
