@@ -1,0 +1,12 @@
+                java.util.Queue 
+
+- java.util.LinkedList;
+
+- Queue significa fila. 
+
+- garante ordem de inserção;
+
+- Permite adição, leitura e remoção considerando a regra básica de uma fila: 
+Primeiro que entra, é o primeiro que sai;
+
+- Não permite mudança de ordenação.
