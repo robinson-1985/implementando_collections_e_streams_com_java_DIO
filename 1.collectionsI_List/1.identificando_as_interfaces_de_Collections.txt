@@ -1,0 +1,8 @@
+                    INTRODUÇÃO
+
+AARAYS - funcionalidade nativa onde variáveis tem mais de uma função que pode 
+guardar mais de um valor; 
+
+Java Collections API - AARAYS não podem ser alterados, então essa propriedade 
+veio para auxiliar.
+
