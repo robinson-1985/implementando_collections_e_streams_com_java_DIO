@@ -8,3 +8,51 @@
 Para leitura, apenas navegação.
 
 - Não permite mudanças de ordenação.
+
+
+                        HASHSET
+
+Quando utilizar?
+
+Quando não é necessário manter uma ordenação.
+
+Ordenação: 
+
+Não é ordenado, e não permite valores repetidos. 
+
+Performance:
+
+Por não ter repetição de valores e não ser ordenado, é a implementação mais 
+performática.
+
+
+                            LINKEDHASHSET
+
+
+
+Quando utilizar?
+
+Quando é necessário manter a ordem de inserção dos elementos.
+
+Ordenação:
+
+Mantém a ordem de inserção dos elementos.
+
+Performance:
+
+É a implemenatação mais lenta por ser necessária manter a ordem. 
+
+                            TREESET 
+
+Quando utilizar?
+
+Quando é necessário alterar a ordem através do uso de comparators.
+
+Ordenação:
+
+Mantém a ordem e pode ser reordenado.
+
+Performance:
+
+E performático para leitura. Para modificação tem a necessidade de reordenar, 
+sendo mais lento que o LinkedHashSet. 
