@@ -1,0 +1,11 @@
+                        OPTIONALS
+
+- Tratamento par avalores que podem ser nulos;
+
+- Possui dois estados: - presente;
+                       - vazio.
+
+- Permite que você execute operações em valores que podem ser nulos sem 
+preocupação com as famosas NullPointerExceptions.
+
+
